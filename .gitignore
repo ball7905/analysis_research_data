@@ -1,0 +1,5 @@
+.venv/
+output/
+src/__pycache__/
+src/test_run.py
+src/stopword_filter.py
