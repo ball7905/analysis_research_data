@@ -16,5 +16,5 @@ options:
   * --n-clusters: tham số cluster
   * --neighbors: tham số neighbors (mặc định 15)
 ```bash
-py src/umap_visualization.py --input output/embeddings.jsonl --titles biorxiv_sciedu.csv --output umap_clusters.html --n-clusters 6
+py src/umap_visualization.py --input output/embeddings.jsonl --titles data/biorxiv_sciedu.csv --output umap_clusters.html --n-clusters 6
 ```
